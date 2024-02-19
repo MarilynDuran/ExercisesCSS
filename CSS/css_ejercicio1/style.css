@@ -1,0 +1,17 @@
+.heder {
+	border-bottom: 1px solid black;
+}
+
+.card {
+	border: 1px solid black;
+	width: 300px;
+}
+
+article {
+	border-bottom: 1px solid black;
+	margin-left: 3px;
+}
+a {
+	margin-right: 20px;
+
+}
